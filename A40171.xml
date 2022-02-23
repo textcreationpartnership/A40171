@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to all Christians to keep to yea, yea, and nay, nay, and to fulfil their words and promises by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40171</idno>
+            <idno type="STC">Wing F1804</idno>
+            <idno type="STC">ESTC R28648</idno>
+            <idno type="EEBO-CITATION">10731807</idno>
+            <idno type="OCLC">ocm 10731807</idno>
+            <idno type="VID">45554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45554)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1402:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to all Christians to keep to yea, yea, and nay, nay, and to fulfil their words and promises by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+               <term>Christian life --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45554:1"/>
+            <pb facs="tcp:45554:1" rendition="simple:additions"/>
+            <p>AN EPISTLE TO ALL CHRISTIANS To keep to YEA, YEA, and NAY, NAY, And to fulfil their WORDS AND PROMISES.</p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lonbard-ſtreet,</hi> Bookſeller, 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45554:2"/>
+            <pb n="1" facs="tcp:45554:2"/>
+            <head>An Epiſtle to all Chriſtians to keep to <hi>Yea, Yea,</hi> and <hi>Nay, Nay,</hi> and to fulfil their Words and Promiſes.</head>
+            <opener>
+               <salute>All my Dearly Beloved Friends and Brethren, every where.</salute>
+            </opener>
+            <p>THE Lord God Almighty with his holy <hi>Power</hi> and <hi>Spirit</hi> hath gather<g ref="char:EOLhyphen"/>ed and kept, and preſerved you to this Day a People to himſelf; And now <hi>Dear Friends and Bre<g ref="char:EOLhyphen"/>thren,</hi> In all your <hi>Words,</hi> in all your Buſineſs and Employments, <hi>Have a care of breaking your Words and Promiſes to any People;</hi> but that you may before you make any <hi>Promiſes</hi> to any Man or Woman, conſider before-hand that you may be able to perform and fullfil both your <hi>Words</hi> and <hi>Promiſes</hi> to all People, that you make your <hi>Promiſes,</hi> or give your word unto. And that your <hi>Yea</hi> be <hi>Yea,</hi> and <hi>Nay, Nay,</hi> in all things, which Chriſt hath ſet up in ſtead of an <hi>Oath;</hi> yea, above an <hi>Oath</hi> and ſwearing in his New Covenant and Teſtament:
+<pb n="2" facs="tcp:45554:3"/>And the Apoſtle <hi>James</hi> holds forth the ſame Do<g ref="char:EOLhyphen"/>ctrine. And this <hi>Yea, Yea,</hi> and <hi>Nay, Nay,</hi> was ſet up, when they forbad all <hi>Oathes</hi> and <hi>Swear<g ref="char:EOLhyphen"/>ing:</hi> And therefore every one's <hi>Yea</hi> ſhould be <hi>Yea,</hi> and every one's <hi>Nay</hi> ſhould be <hi>Nay,</hi> and ſo to ſtand.</p>
+            <p>And therefore all are to Conſider afore-hand before they ſpeak their <hi>Yea, Yea,</hi> and before they ſpeak their <hi>Nay, Nay,</hi> in the New Cove<g ref="char:EOLhyphen"/>nant of Grace, Light and Life, that with the <hi>Light</hi> they may ſee ſafely when they ſpeak their <hi>Yea, Yea,</hi> and their <hi>Nay, Nay,</hi> which is the pra<g ref="char:EOLhyphen"/>ctice of the <hi>Children</hi> of <hi>Light</hi> in the <hi>New Cove<g ref="char:EOLhyphen"/>nant</hi> of <hi>Light;</hi> by and in which <hi>Light</hi> they ſee and Conſider, what they are able to <hi>perform</hi> what they ſpeak at <hi>Yea, Yea,</hi> and what they are able to ſtand to at <hi>Nay, Nay.</hi> So if you do walk in the <hi>Light,</hi> it will preſerve you out of all <hi>raſh and haſty Words and Promiſes,</hi> which many runs into, that do neither perform either their yea, yea, or their nay, nay.</p>
+            <p>Therefore in the New Covenant of <hi>Grace, Light</hi> and <hi>Life,</hi> all are to ſpeak <hi>Yea, Yea,</hi> to what they can do and <hi>perform;</hi> and what they ſay <hi>nay, nay</hi> to, that in the <hi>Light</hi> and <hi>Life</hi> and <hi>Grace</hi> of God they may likewiſe ſtand to their Nay, what they ſay Nay to.</p>
+            <p>So that none make any <hi>promiſe</hi> or ſpeak <hi>Yea, Yea,</hi> or <hi>Nay, Nay</hi> raſhly, which they cannot <hi>perform;</hi> For ſuch kind of <hi>inconſiderate</hi> and
+<pb n="3" facs="tcp:45554:3"/>raſh <hi>Speaking</hi> is not in the Everlaſting Covenant of <hi>Light, Life</hi> and <hi>Grace:</hi> Take heed leſt you be numbred among the <hi>Covenant-Breakers</hi> ſpoken of, <hi>Rom.</hi> 1.31. and ſuch <hi>Truce-breakers</hi> which the Apoſtle ſpeaks of, 2 <hi>Tim.</hi> 3. <hi>Which have a Form of Godlineſs, but deny the power thereof; from ſuch turn away,</hi> ſays the Apo<g ref="char:EOLhyphen"/>ſtle. And therefore they that deny the <hi>power</hi> of <hi>Godlineſs,</hi> will not be <hi>faithful</hi> to God nor Man: and ſuch cannot exerciſe a <hi>good Conſci<g ref="char:EOLhyphen"/>ence</hi> to God in <hi>Obedience</hi> to him, nor to man to <hi>perform</hi> that which is Juſt, Righteous and Honeſt. Therefore the Apoſtle exhorts the Chriſtians in the New Teſtament to <hi>ſpeak the Truth in Love, and to put away Lying, and to ſpeak every man the Truth with his Neighbour,</hi> Epheſ. 4.15, 25.
+<note place="margin">Pſal. 15.1, 2.</note> And <hi>David</hi> ſaith, <hi>Who ſhall abide in thy Taber<g ref="char:EOLhyphen"/>nacle, and who ſhall dwell in thy holy Hill? He that walketh uprightly and worketh Righteouſneſs, and ſpeaketh the Truth in his heart.</hi>
+               <note place="margin">Pſal. 12.</note> 
+               <hi>But they that ſpeak Vanity every one to his Neighbour with flattering Lips and a double Heart, the Lord ſhall Cut off.</hi> And <hi>Solomon</hi> ſpeaking of <hi>Wiſdom</hi> ſays; <hi>My Mouth ſhall ſpeak Truth,</hi>
+               <note place="margin">Prov. 8.7.</note> and <hi>Wickedneſs is an Abomination to my lips.</hi> And <hi>James</hi> ſays in his General Epiſtle, <hi>ſo ſpeak Ye and ſo do,</hi> &amp;c. So ſee here how <hi>Certain</hi> and ſtedfaſt the holy Men of God would have Gods people to be in their <hi>words</hi> and <hi>doings.</hi>
+               <note place="margin">Jam. 2.12.</note> And alſo <hi>James</hi> was Careful, that the Saints in their very <hi>outward Dealings</hi> were to be <hi>Juſt,</hi> and reproved ſuch for ſaying, <hi>To day or to morrow we will go into ſuch a City and continue there a Year,</hi>
+               <note place="margin">Jam. 4.</note> 
+               <hi>and</hi> Buy
+<pb n="4" facs="tcp:45554:4"/>
+               <hi>and ſell and get gain; whereas they did not know what ſhould be on the morrow. But they ought to ſay, If the Lord will, we ſhall live, and do this or that:</hi> Therefore you may ſee, how Care<g ref="char:EOLhyphen"/>ful the Apoſtle was, to keep all the true Chriſtians in the fear of the Lord, and in the ſenſe of his will; <hi>God</hi> is <hi>true</hi> and <hi>faithful</hi> to his people in all Generations; and ſo he would have his people to be <hi>true</hi> and <hi>faithful</hi> to him, and to one ano<g ref="char:EOLhyphen"/>ther, and to all men in his <hi>Spirit</hi> and <hi>Truth.</hi> And Chriſt ſaith,
+<note place="margin">Luk. 16.10, 11</note> 
+               <hi>He that is faithful in that which is leaſt, is faithful alſo in much; and he that is <g ref="char:V">Ʋ</g>njuſt in the leaſt, is unjuſt alſo in much.</hi> And further he ſaith, <hi>If ye have not been</hi> faithful <hi>in the <g ref="char:V">Ʋ</g>nrighteous Mammon or Riches, who will Commit unto you the true Riches?</hi> Therefore there muſt be a Juſtneſs, a <hi>Faithfulneſs</hi> in the outward <hi>Riches</hi> betwixt Man and Man, if you will have a place in your hearts for the true <hi>heavenly Riches.</hi> The <hi>Inward faithfulneſs</hi> to God, bringeth forth <hi>faithfulneſs</hi> to men in <hi>outward things.</hi> And as the Apoſtle ſays to the Saints: <hi>Finally Brethren, whatſoever things are true, whatſoever things are honeſt, what<g ref="char:EOLhyphen"/>ſoever things are</hi> Juſt, Whatſoever <hi>things are pure, Whatſoever things are lovely, What<g ref="char:EOLhyphen"/>ſoever things are of good Report; if there be any Virtue, and if there be any praiſe, think on theſe things.</hi>
+               <note place="margin">Zach. 8.16.</note> Which are very good things to be minded, thought upon, and pra<g ref="char:EOLhyphen"/>ctiſed by the Church of Chriſt. The Lord ſaith by Zachary, <hi>Theſe are the things that ye ſhall do, ſpeak ye every man the Truth to his Neighbour,
+<pb n="5" facs="tcp:45554:4"/>Execute the Judgment of Truth and peace in your Gates:</hi> Again: <hi>Therefore ſaith the Lord, I am returned unto</hi> Zion, <hi>and will dwell in the midſt of</hi> Jeruſalem, <hi>and</hi> Jeruſalem <hi>ſhall be called a City of Truth, and the mountain of the</hi> Lord <hi>of</hi> Hoſt <hi>an holy Mountain.</hi> And if outward <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> was called ſo in the days of the Old Teſta<g ref="char:EOLhyphen"/>ment ſurely much more is heavenly <hi>Jeruſalem</hi> in the New Covenant and Teſtament, called, <hi>The City of the living God, the heavenly</hi> Jeruſalem, Into which nothing that is uncle an can enter, but all the Believers in the Light, and the Chil<g ref="char:EOLhyphen"/>dren of Light enter into, whoſe names are Writ<g ref="char:EOLhyphen"/>ten in the Lambs book of Life and are to Walk in Truth and Righteouſneſs, and ſpeak the Truth every man to his Neighbour, according to the Apoſtle's Doctrine.</p>
+            <p>And ſo as every one hath received Chriſt Je<g ref="char:EOLhyphen"/>ſus, who is the Truth, walk in him the Truth, and <hi>ſpeak the Truth</hi> as it is in Jeſus; <hi>For you are bought with a price, therefore glorify God in your bodies and in your Spirits, which are his.</hi>
+            </p>
+            <p>And the Lord in mercy grant that all his people who profeſs his name may do ſo to his <hi>praiſe</hi> to his <hi>Glory</hi> and to his <hi>honour</hi> over all for ever, <hi>Amen.</hi>
+            </p>
+            <p>And do not ſlight the <hi>form</hi> of <hi>ſound Words</hi> in Truth; You who have <hi>bought</hi> the <hi>Truth,</hi> do not ſell it. And <hi>he that orders his Converſation aright ſhall ſee the ſalvation of God.</hi> And the Apoſtle ſays to the Philippians; <hi>Let your Converſation be as it becometh the Goſpel of Chriſt; For the
+<pb n="6" facs="tcp:45554:5"/>Apoſtle</hi> ſays, <hi>Our Converſation is in Heaven,</hi> where muſt be all the true Followers of Chriſt that are built upon him the Rock and foundation, who is from above. And the Lord God Eſta<g ref="char:EOLhyphen"/>bliſh all his people upon this Rock and founda<g ref="char:EOLhyphen"/>tion which ſtandeth ſure, that upon him they may ſtand faſt with the Grace and Truth that comes from him. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>
+                  <hi>Edmonton</hi> in the County of <hi>Middleſex</hi> 
+                  <date>23—11 Month, 1681.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45554:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
